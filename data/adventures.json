@@ -1,0 +1,999 @@
+[
+  {
+    "name": "Strolling through Mordor",
+    "numEncounters": 2,
+    "encounters": [
+      {
+        "monsterTypes": [
+          "Orc",
+          "Orc Shaman",
+          "Orc Captain"
+        ],
+        "amount": [
+          5,
+          2,
+          1
+        ],
+        "monsters": [
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 0,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Orc Shaman",
+          "Orc",
+          "Orc Captain",
+          "Sauron"
+        ],
+        "amount": [
+          6,
+          15,
+          3,
+          1
+        ],
+        "monsters": [
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 0,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 0,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 0,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 0,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Sauron",
+            "challenge": "Boss",
+            "experience": 0,
+            "hitPoints": 89,
+            "initiative": 3,
+            "damageDice": "d20",
+            "damageType": "Physical"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "testVictory",
+    "numEncounters": 3,
+    "encounters": [
+      {
+        "monsterTypes": [
+          "Snaga"
+        ],
+        "amount": [
+          3
+        ],
+        "monsters": [
+          {
+            "name": "Snaga",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 4,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Snaga",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 4,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Snaga",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 4,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Orc Shaman"
+        ],
+        "amount": [
+          5
+        ],
+        "monsters": [
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Morgoth"
+        ],
+        "amount": [
+          1
+        ],
+        "monsters": [
+          {
+            "name": "Morgoth",
+            "challenge": "Boss",
+            "experience": 168,
+            "hitPoints": 100,
+            "initiative": 4,
+            "damageDice": "d20",
+            "damageType": "Psychical"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "goblin hunt",
+    "numEncounters": 2,
+    "encounters": [
+      {
+        "monsterTypes": [
+          "Goblin"
+        ],
+        "amount": [
+          20
+        ],
+        "monsters": [
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Goblin",
+          "Goblin Captain"
+        ],
+        "amount": [
+          10,
+          3
+        ],
+        "monsters": [
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin",
+            "challenge": "Minion",
+            "experience": 2,
+            "hitPoints": 5,
+            "initiative": 0,
+            "damageDice": "d4",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin Captain",
+            "challenge": "Lieutenant",
+            "experience": 10,
+            "hitPoints": 10,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin Captain",
+            "challenge": "Lieutenant",
+            "experience": 10,
+            "hitPoints": 10,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Goblin Captain",
+            "challenge": "Lieutenant",
+            "experience": 10,
+            "hitPoints": 10,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Physical"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mordor",
+    "numEncounters": 3,
+    "encounters": [
+      {
+        "monsterTypes": [
+          "Orc"
+        ],
+        "amount": [
+          3
+        ],
+        "monsters": [
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Orc",
+          "Orc Captain"
+        ],
+        "amount": [
+          7,
+          1
+        ],
+        "monsters": [
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 18,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          }
+        ]
+      },
+      {
+        "monsterTypes": [
+          "Sauron",
+          "Orc",
+          "Orc Captain"
+        ],
+        "amount": [
+          1,
+          7,
+          1
+        ],
+        "monsters": [
+          {
+            "name": "Sauron",
+            "challenge": "Boss",
+            "experience": 148,
+            "hitPoints": 89,
+            "initiative": 3,
+            "damageDice": "d20",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 18,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          }
+        ]
+      }
+    ]
+  }
+]
