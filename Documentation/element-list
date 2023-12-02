@@ -1,0 +1,9 @@
+unnamed package
+business
+business.entities
+business.entities.Characters
+business.entities.Monsters
+persistence
+persistence.API
+persistence.JSON
+presentation
